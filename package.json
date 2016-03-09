@@ -1,0 +1,19 @@
+{
+  "name": "bsd-js",
+  "version": "0.1.0",
+  "description": "A JavaScript wrapper for interacting with Blue State Digital APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bernie-2016/bsd-js.git"
+  },
+  "author": "Jacob LeGrone <dev@jacoblegrone.com> (https://jacoblegrone.com)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bernie-2016/bsd-js/issues"
+  },
+  "homepage": "https://github.com/Bernie-2016/bsd-js#readme"
+}
